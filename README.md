@@ -2,7 +2,7 @@
 
 # Project Overview
 
-In this project, I developed an innovative array of machine learning models (Logistic Regression, Support Vector Machine, Artificial Neural Network, and Random Forest) on Sleep Quality Data. The aim was to leverage machine learning techniques to analyze various sleep-related metrics and categorize sleep quality to provide personalized insights.
+In this project, an innovative array of machine learning models (Logistic Regression, Support Vector Machine, Artificial Neural Network, and Random Forest) has been developed on Sleep Quality Data. The aim was to leverage machine learning techniques to analyze various sleep-related metrics and categorize sleep quality to provide personalized insights.
 
 The following key steps and visualizations are implemented:
 
@@ -83,9 +83,9 @@ The dataset containing sleep-related features such as age, gender, sleep duratio
 
 ## Conclusion
 
-### Innovation and Collaboration:
+### Innovation:
 
-- I collaborated on refining the IoT-integrated sleep quality monitoring system., integrating various machine learning models for accurate sleep quality categorization.
+- refining the IoT-integrated sleep quality monitoring system., integrating various machine learning models for accurate sleep quality categorization.
 
 ### Future Prospects:
 
